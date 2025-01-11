@@ -43,7 +43,7 @@ The test automation dependencies are inside the file pom.xml (JDK 20 / TestNG us
 <img src="https://github.com/azevedomello/ApiChallenge/blob/main/ss_2.jpeg" width="700px"/>
 </div>  
 
-<h4><center>Allure Report Dashboard: 
+<h4><center>Code Structure: 
 <br> </br>
 <div align="left">
 <img src="https://github.com/azevedomello/ApiChallenge/blob/main/ss_api_3.jpg" width="700px"/>
